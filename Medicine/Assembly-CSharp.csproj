@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AAA.cs" />
     <Compile Include="Assets\Other\SimpleCumulus\Demo\Scripts\Player\FPSWalkerEnhanced.cs" />
     <Compile Include="Assets\Other\SimpleCumulus\Demo\Scripts\Player\SmoothMouseLook.cs" />
     <Compile Include="Assets\Other\SimpleCumulus\Demo\Scripts\Skybox\SkyboxChanger.cs" />
