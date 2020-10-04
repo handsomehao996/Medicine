@@ -460,20 +460,20 @@
     <Reference Include="Valve.Newtonsoft.Json">
       <HintPath>F:/UnityForGithub/Medicine/Medicine/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.ads@3.4.5/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.Advertisements">
-      <HintPath>F:/UnityForGithub/Medicine/Medicine/Library/PackageCache/com.unity.ads@3.4.5/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>F:/UnityEditor/2019.4.4f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

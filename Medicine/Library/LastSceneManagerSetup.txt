@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Models/PolygonBattleRoyale/Scenes/Demo.unity
+- path: Assets/Scenes/VR.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
